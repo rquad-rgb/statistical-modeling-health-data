@@ -1,5 +1,9 @@
 # Statistical Modeling of Health Data
 
+## Data
+The dataset used in this project was provided for academic purposes and is not publicly available.  
+The analysis is included to demonstrate statistical modeling techniques.
+
 ## Overview
 This project analyzes relationships between body composition variables using statistical modeling techniques in R.
 
