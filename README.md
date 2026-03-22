@@ -34,3 +34,6 @@ This project analyzes relationships between body composition variables using sta
 
 ## Author
 Rasha Quadri
+
+## 🌐 View Interactive Version
+👉 Kaggle Notebook: [https://www.kaggle.com/code/trashyrash/statistical-modeling-of-health-data]
